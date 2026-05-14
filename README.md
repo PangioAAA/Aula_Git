@@ -10,5 +10,7 @@ Neste momento o repositório está em construção e estamos ainda atualizando o
 
 Vamos aprender a fazer um commit local.
 
+Testando fazer um commit com duas mudanças.
+
 
 
